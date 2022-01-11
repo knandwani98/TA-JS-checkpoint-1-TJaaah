@@ -11,7 +11,7 @@ function sum(a, b) {
 function sum(a, b) {
   console.log(a + b);
 }
-// This will give input not return 
+// This will give output not return 
 ```
 
 2. If we store the returned value of both functions above in variable `first` and `second` what will be the value of `first` and `second`. 
